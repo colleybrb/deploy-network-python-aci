@@ -1,0 +1,3 @@
+﻿Tenant,VlanPool,contract,PhysicalDomain,L3OutName,LogicalNodeProfile,vlan,AEP,VRF,SwitchProfile,ApplicationProfile,BD,BDSubnet,EPG,portname,port,InterfacePolicyGroup
+Daniel,Daniel_Vlan_Pool,permit-any,Daniel_Dom,L3-Out-Daniel,L1001-1002,1161-1162,PITC_AEP,Daniel,1001-1002,AP,BD-1161,10.17.1.1/24,EPG-1161,P13,13,Test_PO1
+Tim,Tim_Vlan,permit-any,Tim_Dom,L3-tem,L1001-1003,2001-2002,PITC_AEP,Daniel,1001-1003,AP,BD-1162,10.17.1.1/25,EPG-1162,P14,14,Test_PO2
