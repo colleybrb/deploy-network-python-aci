@@ -1,6 +1,8 @@
 # Cisco-ACI-Cobra
 
-This project deploys configs from .csv to ACI I used a blend of ACI object inspector, webarya and cobra to deploy network infrastructure. It's not a 100% solution, but you should be able to launch from here in any direction you need.
+This project deploys configs from .csv to ACI I used a blend of ACI object inspector, webarya and cobra to deploy network infrastructure. It's not a 100% solution, but you should be able to launch from here in any direction you need. 
+
+Ensure you load cobra from your APIC.
 
 ### What it does
 * Loads csv
